@@ -1,6 +1,6 @@
 # Smile-Detector
 
-I tried to comment the code well .
+Code is well commented .
 
 I used haar cascade to make a smile detector which is an improvement of my earlier project  [HaarFacialRecognition](https://github.com/KaustabhGanguly/HaarFacialRecognition)
 
